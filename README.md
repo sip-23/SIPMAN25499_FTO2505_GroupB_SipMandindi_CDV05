@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SIPMAN25499_FTO2505_GroupB_SipMandindi_CDV05
 
 <h1 align="center">  Hi there 👋, I'm Siphamandla Sips Mandindi </h1>
@@ -22,6 +21,7 @@ To to to my Website, follow the link below:
 - **Deployment Link**: [My Developer Portfolio Website](https://sips-developer-portfolio-website.netlify.app/).
 
 I hope you enjoy!
-=======
-# SIPMAN25499_FTO2505_GroupB_SipMandindi_CDV05
->>>>>>> 421e7179e0cee87ab22eb3054ed9d387036076ab
+
+
+
+Commit ID: 421e7179e0cee87ab22eb3054ed9d387036076ab
